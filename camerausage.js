@@ -7,8 +7,9 @@ window.onload = function () {
     navigator.getUserMedia({ video: true }, function (stream) {
         var video = document.getElementById("v");
         var canvas = document.getElementById("c");
-        var button = document.getElementById("b");
+        // var button = document.getElementById("b");
         // button.disabled = false;
+        
         video.srcObject = stream;
         setTimeout(function () {
             for (i = 0; i < 5; i++) {
