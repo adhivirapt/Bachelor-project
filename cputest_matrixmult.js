@@ -1,12 +1,11 @@
 window.onload = function () {
     var a = createMatrix()
     var b = createMatrix()
-    console.log(a[0].length)
-    console.log(multiply(a, b))
+    multiply(a,b)
 
     function createMatrix() {
         var matrix = []
-        for (var i = 0; i < 9; i++) {
+        for (var i = 0; i < 100; i++) {
             matrix[i] = [];
             for (var j = 0; j < 9; j++) {
                 matrix[i].push(Math.random())
