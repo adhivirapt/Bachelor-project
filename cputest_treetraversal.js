@@ -9,8 +9,8 @@ window.onload = function () {
         var node = new Node();
         this._root = node;
     }
-    Tree.prototype.traverseDF = function(callback) {
- 
+    Tree.prototype.traverseDF = function (callback) {
+
         // this is a recurse and immediately-invoking function 
         (function recurse(currentNode) {
             // step 2
@@ -18,27 +18,29 @@ window.onload = function () {
                 // step 3
                 recurse(currentNode.children[i]);
             }
-     
+
             // step 4
             callback(currentNode);
-             
+
             // step 1
         })(this._root);
-     
+
     };
 
     var tree = new Tree();
     var child = tree._root.children;
-    for (var i = 0; i<1000; i++){
-        child.push(new Node());
-        for(var j = 0; j<1000;j++)
-        child = child[0].children;
+    for (var i = 0; i < 1000; i++) {
+        for (var j = 0; j < 1000; j++) {
+            child.push(new Node());
+        }
+        child = child[].children;
+
 
     }
-    tree.traverseDF(function(node) {
+    tree.traverseDF(function (node) {
         console.log(node)
     });
     // tree.children.push(new Node());
     // console.log(tree);
-    
+
 }

@@ -1,8 +1,11 @@
 window.onload = function () {
     if (typeof (Storage) !== "undefined") {
-        localStorage.setItem("lastname", "Smith");
+        for(var i = 0;i<10000;i++){
+            localStorage.setItem(i, "Smith");
+            // console.log(localStorage.getItem(i));
+        }
     } else {
-       console.log("error")
+        console.log("error")
     }
 
 }
