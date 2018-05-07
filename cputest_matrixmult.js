@@ -1,19 +1,5 @@
 window.onload = function () {
-    var a = createMatrix()
-    var b = createMatrix()
-    multiply(a,b)
-
-    function createMatrix() {
-        var matrix = []
-        for (var i = 0; i < 100; i++) {
-            matrix[i] = [];
-            for (var j = 0; j < 9; j++) {
-                matrix[i].push(Math.random())
-            }
-        }
-        return matrix
-    }
-
+    multiply(matrix,matrix)
     function multiply(a, b) {
         var aNumRows = a.length
         var aNumCols = a[0].length
