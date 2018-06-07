@@ -1,8 +1,14 @@
 
 window.onload = function () {
-    var obj_url = window.URL.createObjectURL(blob);
-    var iframe = document.getElementById('viewer');
-    iframe.setAttribute('src', obj_url);
-    window.URL.revokeObjectURL(obj_url);
+    window.requestFileSystem = window.requestFileSystem || window.webkitRequestFileSystem;
+    function onInitFs(fs) {
+        fs.root.getFile('test.txt', { create: true }, function (fileEntry) {
+            fileEntry.createWriter(function (fileWriter) {
+                var blob = new Blob([text1], { type: 'text/plain' });
+                fileWriter.write(blob);
+            })
+        });
 
+    }
+    window.requestFileSystem(window.TEMPORARY, 1024 * 1024, onInitFs);
 }
