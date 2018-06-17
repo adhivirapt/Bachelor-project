@@ -18,12 +18,6 @@ window.onload = function () {
             }
             // add stream data to chunks
             chunks.push(e.data);
-            // if recorder is 'inactive' then recording has finished
-            // if (recorder.state == 'inactive') {
-            // convert stream data chunks to a 'webm' audios format as a blob
-            // const blob = new Blob(chunks, { type: 'audio/webm' });
-            // convert blob to URL so it can be assigned to a audio src attribute
-            // createAudioElement(URL.createObjectURL(blob));
             counter ++;
             console.log(chunks)
             console.log(counter)

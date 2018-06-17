@@ -1,6 +1,7 @@
 window.onload = function () {
-var date = Date.now()
-for (i=0;i<5000;i++){
-    Date.now()
-}
+    console.log("STARTME---" + new Date().getTime())
+    for (i = 0; i < 500000; i++) {
+        Date.now()
+    }
+    console.log("STOPME---" + new Date().getTime())
 }
