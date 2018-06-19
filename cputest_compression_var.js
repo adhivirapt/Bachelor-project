@@ -1,9 +1,9 @@
-var text = `The Project Gutenberg EBook of Mary Louise at Dorfield, by Emma Speed Sampson
+var text45k = `The Project Gutenberg EBook of Mary Louise at Dorfield, by Emma Speed Sampson
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
+with this eBook or online at www.gutenberg.org/license hi there
 
 
 Title: Mary Louise at Dorfield
@@ -5273,25 +5273,15 @@ To donate, please visit: http://pglaf.org/donate
 
 
 Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+works. S. Hart is the originator of the Project Gutenberg-tm
 concept of a library of electronic works that could be freely shared
 with anyone.  For thirty years, he produced and distributed Project
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
 
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
+.
 
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.`
+     http://www.gutenberg.org`

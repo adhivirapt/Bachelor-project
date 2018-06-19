@@ -4,15 +4,14 @@ window.onload = function () {
     setTimeout(function () {
         console.log("STARTME---" + new Date().getTime())
         while (counter > 0) {
-            xmlHttp.onreadystatechange = function () {
-                if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
-                    callback(xmlHttp.responseText);
-            }
-            xmlHttp.open("GET", "https://51bb68e3-c11b-4e34-9215-16189b48ab13.mock.pstmn.io/test123", true); // true for asynchronous 
+            // xmlHttp.onreadystatechange = function () {
+            // }
+            xmlHttp.open("GET", "http://localhost:8081/api/simpleExample", false); // true for asynchronous 
             xmlHttp.send(null);
             counter = counter - 1;
+            console.log(counter)
         }
         console.log("STOPME---" + new Date().getTime())
-    }, 15000);
+    }, 25000);;
     // ksajgdajsgjk
 }
