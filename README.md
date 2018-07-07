@@ -1,4 +1,4 @@
-### Web Applications for Energy Benchmarking
+# Web Applications for Energy Benchmarking
 
 ## Motivation
 9 web benchmark applications developed to test energy efficiency of JavaScript functionalities. This experiment is conducted with the help of Trepn profiler and Android Runner Python framework.
