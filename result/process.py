@@ -31,13 +31,8 @@ def get_cpu(dir, startStamp, stopStamp):
     csv = np.asarray(csv)
     index1 = find_nearest(csv[:, 0], startStamp)
     index2 = find_nearest(csv[:, 0], stopStamp)
-    powerList = csv[index1:index2, 3]
-    powerList = powerList[np.nonzero(powerList)]
-    powerList = powerList[~np.isnan(powerList)]
     cpuList = csv[index1:index2, 5]
-    print(index1)
-    print(index2)
-    print(powerList.sum())
+   
     averageCPU = cpuList.sum() / len(cpuList)
     return averageCPU
 
@@ -46,33 +41,16 @@ def get_averageEnergy(dir, startStamp, stopStamp):
     csv = pd.read_csv(dir, skiprows=3)
     index = csv['Battery Power* [uW]'].index[csv['Battery Power* [uW]'].apply(
         pd.isnull)]
-    print(index)
     csv = csv[:index[0]].astype(str).astype(float)
     csv = np.asarray(csv)
-    # print(find_nearest(csv[0, :], startStamp))
-    # print(csv[find_nearest(csv[0, :], startStamp), 0])
-    print("imhere")
-    print(startStamp)
-    print(stopStamp)
     index1 = find_nearest(csv[:, 0], startStamp)
     index2 = find_nearest(csv[:, 0], stopStamp)
     powerList = csv[index1:index2, 3]
     powerList = powerList[np.nonzero(powerList)]
     powerList = powerList[~np.isnan(powerList)]
-    # print(powerList)
     cpuList = csv[index1:index2, 5]
-    print(index1)
-    print(index2)
-    print(powerList.sum())
-
     averageEnergy = (powerList.sum()/len(powerList) *
                      (stopStamp-startStamp))/(1000000 * 1000)
-    # print(find_nearest(csv['Time  [ms]'], stopStamp))
-    print(averageEnergy)
-    # averagePower = ((csv['Battery Power* [uW]'].sum() /
-    #                  index[0]) * csv.iloc[index[0]-1, 0])/(1000000 * 1000)
-
-    # print(averagePower)
     return averageEnergy
 
 
@@ -192,7 +170,7 @@ def description(data):
     print(round(upper_whisker,2))
     print(round(lower_whisker,4))
 
-# # geolocation true
+# geolocation true
 # data =  [aggregate_data('./2018.06.26_100915/data/nexus7/httpsadhiviraptgithubio/comandroidchrome/trepn', 'timestampgeohigh10.txt', 'loggeohigh10.txt'),
 #         aggregate_data('./2018.06.26_100915/data/nexus7/httpsadhiviraptgithubio/comandroidchrome/trepn', 'timestampgeohigh20.txt', 'loggeohigh20.txt'), 
 #         aggregate_data('./2018.06.26_212757/data/nexus7/httpsadhiviraptgithubio/comandroidchrome/trepn', 'timestampgeohigh40.txt', 'loggeohigh40.txt')]
@@ -252,11 +230,11 @@ def description(data):
                     # 'timestampsessionstorage300k.txt', 'sessionrequest300k.txt')]
 
 
-
-# plt.ylabel("Energy in Joule", size=15)
-# plt.title('Session storage test', size=19, fontweight='bold')
-# plt.boxplot(data, 0, '', showmeans=True)
-# plt.xticks([1, 2, 3], ['100000 calls',
-#                        '200000 calls', '300000 calls'], size=15)
-# plt.figure(figsize=(2, 1), dpi=120)
-# plt.show()
+# Show plot
+plt.ylabel("Energy in Joule", size=15)
+plt.title('Session storage test', size=19, fontweight='bold')
+plt.boxplot(data, 0, '', showmeans=True)
+plt.xticks([1, 2, 3], ['100000 calls',
+                       '200000 calls', '300000 calls'], size=15)
+plt.figure(figsize=(2, 1), dpi=120)
+plt.show()
