@@ -1,0 +1,2 @@
+device,subject,browser,Battery Power* [uW],Battery Status,CPU1 Frequency [kHz],CPU1 Load [%],CPU2 Frequency [kHz],CPU2 Load [%]
+nexus7,httpsadhiviraptgithubio,comandroidchrome,63067.67490749347,1.0,933608.3745934825,0.0,940169.7881269173,13.975224424179737

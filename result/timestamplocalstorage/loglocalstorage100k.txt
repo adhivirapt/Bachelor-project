@@ -1,0 +1,552 @@
+--------- beginning of crash
+--------- beginning of system
+--------- beginning of main
+W/chromium( 8391): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=8462)
+I/chromium( 8887): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 8959): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 8915): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 8915): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 9042): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 9084): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 9084): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 8887): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=9084)
+I/chromium( 9167): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 8887): [INFO:CONSOLE(2)] "STARTME---1529602184245", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium( 8887): [INFO:CONSOLE(7)] "STOPME---1529602190243", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium( 9201): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 9201): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 8887): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=9201)
+I/chromium( 9221): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 9221): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 8887): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=9221)
+W/chromium( 8887): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=8959)
+I/chromium(10310): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(10384): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(10336): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(10336): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(10461): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(10515): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(10515): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(10310): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=10515)
+I/chromium(10652): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(10310): [INFO:CONSOLE(2)] "STARTME---1529604131704", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(  936): [INFO:CONSOLE(0)] "Application Cache Checking event", source: https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html (0)
+I/chromium(  936): [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html (0)
+I/chromium(10310): [INFO:CONSOLE(7)] "STOPME---1529604136632", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+W/chromium(10310): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=10384)
+I/chromium(11038): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(11110): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(11065): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(11065): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(11181): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(11224): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(11224): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(11038): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=11224)
+I/chromium(11308): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(11038): [INFO:CONSOLE(2)] "STARTME---1529604346228", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(11038): [INFO:CONSOLE(7)] "STOPME---1529604351521", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(11342): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(11342): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(11038): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=11342)
+I/chromium(11361): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(11361): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(11038): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=11361)
+W/chromium(11038): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=11110)
+I/chromium(11551): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(11620): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(11580): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(11580): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(11698): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(11743): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(11743): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(11551): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=11743)
+I/chromium(11828): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(11551): [INFO:CONSOLE(2)] "STARTME---1529604560780", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(11551): [INFO:CONSOLE(7)] "STOPME---1529604567469", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(11861): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(11861): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(11551): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=11861)
+I/chromium(11881): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(11881): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(11551): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=11881)
+W/chromium(11551): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=11620)
+I/chromium(12052): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(12124): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(12078): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(12078): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(12195): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(12240): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(12240): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(12052): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=12240)
+I/chromium(12325): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(12052): [INFO:CONSOLE(2)] "STARTME---1529604774942", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(12052): [INFO:CONSOLE(7)] "STOPME---1529604780451", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(12361): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(12361): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(12052): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=12361)
+I/chromium(12381): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(12381): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(12052): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=12381)
+W/chromium(12052): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=12124)
+I/chromium(12557): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(12626): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(12585): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(12585): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(12699): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(12743): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(12743): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(12557): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=12743)
+I/chromium(12829): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(12557): [INFO:CONSOLE(2)] "STARTME---1529604989530", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(12557): [INFO:CONSOLE(7)] "STOPME---1529604994941", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(12862): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(12862): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(12557): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=12862)
+I/chromium(12883): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(12883): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(12557): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=12883)
+W/chromium(12557): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=12626)
+I/chromium(13056): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(13124): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(13085): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(13085): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(13198): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(13239): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(13239): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(13056): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=13239)
+I/chromium(13324): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(13056): [INFO:CONSOLE(2)] "STARTME---1529605204580", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(13056): [INFO:CONSOLE(7)] "STOPME---1529605211565", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(13378): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(13378): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(13056): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=13378)
+I/chromium(13397): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(13397): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(13056): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=13397)
+W/chromium(13056): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=13124)
+I/chromium(13567): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(13638): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(13593): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(13593): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(13711): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(13752): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(13752): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(13567): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=13752)
+I/chromium(13838): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(13567): [INFO:CONSOLE(2)] "STARTME---1529605418748", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(13567): [INFO:CONSOLE(7)] "STOPME---1529605424728", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(13882): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(13882): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(13567): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=13882)
+I/chromium(13902): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(13902): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(13567): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=13902)
+W/chromium(13567): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=13638)
+I/chromium(14072): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(14145): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(14101): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(14101): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(14215): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(14257): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(14257): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(14072): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=14257)
+I/chromium(14343): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(14072): [INFO:CONSOLE(2)] "STARTME---1529605633580", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(14072): [INFO:CONSOLE(7)] "STOPME---1529605639513", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(14385): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(14385): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(14072): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=14385)
+I/chromium(14403): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(14403): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(14072): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=14403)
+W/chromium(14072): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=14145)
+I/chromium(14579): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(14651): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(14606): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(14606): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(14723): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(14764): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(14764): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(14579): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=14764)
+I/chromium(14848): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(14579): [INFO:CONSOLE(2)] "STARTME---1529605848384", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(14579): [INFO:CONSOLE(7)] "STOPME---1529605855734", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(14880): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(14880): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(14579): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=14880)
+I/chromium(14899): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(14899): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(14579): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=14899)
+W/chromium(14579): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=14651)
+I/chromium(15070): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(15141): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(15097): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(15097): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(15212): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(15253): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(15253): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(15070): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=15253)
+I/chromium(15345): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(15070): [INFO:CONSOLE(2)] "STARTME---1529606063022", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(15070): [INFO:CONSOLE(7)] "STOPME---1529606068531", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(15381): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(15381): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(15070): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=15381)
+I/chromium(15401): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(15401): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(15070): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=15401)
+W/chromium(15070): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=15141)
+I/chromium(15574): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(15645): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(15603): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(15603): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(15714): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(15754): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(15754): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(15574): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=15754)
+I/chromium(15846): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(15574): [INFO:CONSOLE(2)] "STARTME---1529606277709", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(15574): [INFO:CONSOLE(7)] "STOPME---1529606282821", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(15878): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(15878): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(15574): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=15878)
+W/chromium(15574): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=15645)
+I/chromium(16441): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(16513): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(16470): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(16470): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(16584): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(16629): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(16629): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(16441): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=16629)
+I/chromium(16714): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(16441): [INFO:CONSOLE(2)] "STARTME---1529606493025", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(16441): [INFO:CONSOLE(7)] "STOPME---1529606497850", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(16747): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(16747): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(16441): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=16747)
+I/chromium(16766): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(16766): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(16441): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=16766)
+W/chromium(16441): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=16513)
+I/chromium(17018): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(17091): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(17048): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(17048): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(17162): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(17202): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(17202): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(17018): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=17202)
+I/chromium(17288): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(17018): [INFO:CONSOLE(2)] "STARTME---1529606707762", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(17018): [INFO:CONSOLE(7)] "STOPME---1529606713903", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(17320): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(17320): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(17018): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=17320)
+I/chromium(17338): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(17338): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(17018): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=17338)
+W/chromium(17018): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=17091)
+I/chromium(17603): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(17673): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(17631): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(17631): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(17747): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(17787): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(17787): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(17603): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=17787)
+I/chromium(17871): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(17603): [INFO:CONSOLE(2)] "STARTME---1529606922920", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(17603): [INFO:CONSOLE(7)] "STOPME---1529606928873", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(17923): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(17923): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(17603): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=17923)
+I/chromium(17943): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(17943): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(17603): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=17943)
+W/chromium(17603): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=17673)
+I/chromium(18162): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18232): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18190): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18190): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(18303): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18353): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18353): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(18162): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=18353)
+I/chromium(18440): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18162): [INFO:CONSOLE(2)] "STARTME---1529607137879", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(18162): [INFO:CONSOLE(7)] "STOPME---1529607143590", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(18472): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18472): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(18162): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=18472)
+I/chromium(18490): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18490): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(18162): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=18490)
+W/chromium(18162): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=18232)
+I/chromium(18661): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18730): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18687): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18687): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(18806): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18850): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18850): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(18661): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=18850)
+I/chromium(18933): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18661): [INFO:CONSOLE(2)] "STARTME---1529607352565", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(18661): [INFO:CONSOLE(7)] "STOPME---1529607358905", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(18967): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18967): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(18661): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=18967)
+I/chromium(18986): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18986): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(18661): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=18986)
+W/chromium(18661): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=18730)
+I/chromium(19178): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19248): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19207): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19207): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(19322): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19364): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19364): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(19178): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=19364)
+I/chromium(19450): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19178): [INFO:CONSOLE(2)] "STARTME---1529607567123", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(19178): [INFO:CONSOLE(7)] "STOPME---1529607571999", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(19482): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19482): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(19178): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=19482)
+I/chromium(19501): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19501): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(19178): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=19501)
+W/chromium(19178): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=19248)
+I/chromium(  936): [INFO:CONSOLE(0)] "Application Cache Checking event", source: https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html (0)
+I/chromium(  936): [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html (0)
+I/chromium(19675): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19746): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19702): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19702): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(19830): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19870): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19870): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(19675): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=19870)
+I/chromium(19955): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19675): [INFO:CONSOLE(2)] "STARTME---1529607781336", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(19675): [INFO:CONSOLE(7)] "STOPME---1529607787581", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(19986): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19986): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(19675): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=19986)
+I/chromium(20005): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20005): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(19675): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=20005)
+W/chromium(19675): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=19746)
+I/chromium(20184): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20257): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20209): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20209): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(20331): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20376): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20376): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(20184): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=20376)
+I/chromium(20459): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20184): [INFO:CONSOLE(2)] "STARTME---1529607995938", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(20184): [INFO:CONSOLE(7)] "STOPME---1529608001755", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(20489): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20489): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(20184): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=20489)
+I/chromium(20509): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20509): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(20184): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=20509)
+W/chromium(20184): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=20257)
+I/chromium(20745): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20814): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20774): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20774): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(20919): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20963): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20963): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(20745): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=20963)
+I/chromium(21049): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20745): [INFO:CONSOLE(2)] "STARTME---1529608210504", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(20745): [INFO:CONSOLE(7)] "STOPME---1529608216476", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(21079): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21079): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(20745): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=21079)
+I/chromium(21204): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21204): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(20745): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=21204)
+W/chromium(20745): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=20814)
+I/chromium(21468): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21539): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21497): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21497): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(21615): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21652): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21652): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(21468): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=21652)
+I/chromium(21743): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21468): [INFO:CONSOLE(2)] "STARTME---1529608425163", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(21468): [INFO:CONSOLE(7)] "STOPME---1529608430302", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(21776): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21776): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(21468): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=21776)
+I/chromium(21813): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21813): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(21468): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=21813)
+W/chromium(21468): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=21539)
+I/chromium(22009): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22079): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22035): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22035): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(22151): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22195): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22195): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(22009): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=22195)
+I/chromium(22278): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22009): [INFO:CONSOLE(2)] "STARTME---1529608639826", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(22009): [INFO:CONSOLE(7)] "STOPME---1529608645311", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(22315): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22315): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(22009): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=22315)
+I/chromium(22354): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22354): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(22009): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=22354)
+W/chromium(22009): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=22079)
+I/chromium(22530): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22600): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22557): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22557): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(22671): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22714): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22714): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(22530): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=22714)
+I/chromium(22796): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22530): [INFO:CONSOLE(2)] "STARTME---1529608853861", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(22530): [INFO:CONSOLE(7)] "STOPME---1529608859224", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(22830): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22830): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(22530): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=22830)
+I/chromium(22850): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22850): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(22530): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=22850)
+W/chromium(22530): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=22600)
+F/chromium(22796): [FATAL:render_widget_compositor.cc(1176)] Android does not support fallback frame sinks.
+I/chromium(23078): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23151): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23108): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23108): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(23226): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23262): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23262): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(23078): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=23262)
+I/chromium(23358): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23078): [INFO:CONSOLE(2)] "STARTME---1529609068630", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(23078): [INFO:CONSOLE(7)] "STOPME---1529609074167", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(23388): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23388): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(23078): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=23388)
+I/chromium(23406): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23406): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(23078): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=23406)
+W/chromium(23078): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=23151)
+I/chromium(23592): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23660): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23619): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23619): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(23739): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23778): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23778): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(23592): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=23778)
+I/chromium(23865): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23592): [INFO:CONSOLE(2)] "STARTME---1529609283087", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(23592): [INFO:CONSOLE(7)] "STOPME---1529609288809", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(23899): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23899): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(23592): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=23899)
+I/chromium(23920): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23920): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(23592): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=23920)
+W/chromium(23592): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=23660)
+I/chromium(24093): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24167): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24120): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24120): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(24236): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24281): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24281): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(24093): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=24281)
+I/chromium(24366): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24093): [INFO:CONSOLE(2)] "STARTME---1529609498029", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(24093): [INFO:CONSOLE(7)] "STOPME---1529609503383", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+W/chromium(24093): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=24167)
+I/chromium(24777): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24851): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24804): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24804): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(24922): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24965): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24965): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(24777): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=24965)
+I/chromium(25051): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24777): [INFO:CONSOLE(2)] "STARTME---1529609713175", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(24777): [INFO:CONSOLE(7)] "STOPME---1529609719183", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(25081): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25081): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(24777): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25081)
+I/chromium(25101): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25101): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(24777): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25101)
+W/chromium(24777): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=24851)
+I/chromium(25324): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25401): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25351): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25351): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(25474): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25518): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25518): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(25324): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25518)
+I/chromium(25605): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25324): [INFO:CONSOLE(2)] "STARTME---1529609927809", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(25324): [INFO:CONSOLE(7)] "STOPME---1529609933487", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(25638): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25638): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(25324): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25638)
+I/chromium(25659): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25659): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(25324): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25659)
+W/chromium(25324): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=25401)
+I/chromium(25917): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25989): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25945): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25945): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(26065): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26120): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26120): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(25917): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=26120)
+I/chromium(26215): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25917): [INFO:CONSOLE(2)] "STARTME---1529610142576", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(25917): [INFO:CONSOLE(7)] "STOPME---1529610149216", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(26357): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26357): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(25917): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=26357)
+I/chromium(26376): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26376): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(25917): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=26376)
+W/chromium(25917): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=25989)
+I/chromium(26640): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26712): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26668): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26668): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(26882): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26931): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26931): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26640): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=26931)
+I/chromium(27015): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26640): [INFO:CONSOLE(2)] "STARTME---1529610357921", source: https://few.vu.nl/~ktn470/android/localStorage.js (2)
+I/chromium(26640): [INFO:CONSOLE(7)] "STOPME---1529610367807", source: https://few.vu.nl/~ktn470/android/localStorage.js (7)
+I/chromium(27179): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27179): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26640): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=27179)
+I/chromium(27219): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27219): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26640): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=27219)
+W/chromium(26640): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=26712)

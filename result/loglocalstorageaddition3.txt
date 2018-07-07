@@ -1,0 +1,41 @@
+--------- beginning of main
+--------- beginning of system
+I/chromium(17134): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23782): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23855): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23813): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23813): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(23928): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23970): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23970): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(23782): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=23970)
+I/chromium(24088): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23782): [INFO:CONSOLE(2)] "STARTME---1529950359634", source: https://adhivirapt.github.io/localStorage.js (2)
+I/chromium(23782): [INFO:CONSOLE(7)] "STOPME---1529950375378", source: https://adhivirapt.github.io/localStorage.js (7)
+W/chromium(23782): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=23855)
+I/chromium(24524): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24596): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24552): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24552): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(24669): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24715): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24715): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(24524): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=24715)
+I/chromium(24820): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24524): [INFO:CONSOLE(2)] "STARTME---1529950576281", source: https://adhivirapt.github.io/localStorage.js (2)
+I/chromium(24524): [INFO:CONSOLE(7)] "STOPME---1529950591057", source: https://adhivirapt.github.io/localStorage.js (7)
+W/chromium(24524): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=24596)
+F/chromium(24820): [FATAL:render_widget_compositor.cc(1176)] Android does not support fallback frame sinks.
+I/chromium(25236): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25307): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25264): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25264): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(25378): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25420): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25420): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(25236): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25420)
+I/chromium(25525): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25236): [INFO:CONSOLE(2)] "STARTME---1529950793224", source: https://adhivirapt.github.io/localStorage.js (2)
+I/chromium(25236): [INFO:CONSOLE(7)] "STOPME---1529950809018", source: https://adhivirapt.github.io/localStorage.js (7)
+W/chromium(25236): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=25307)
+--------- beginning of main

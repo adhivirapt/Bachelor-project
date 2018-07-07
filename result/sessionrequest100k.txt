@@ -1,0 +1,676 @@
+--------- beginning of main
+--------- beginning of system
+I/chromium(23777): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23843): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23805): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23805): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(23921): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+W/chromium(23777): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=23805)
+I/chromium(23982): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23982): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(23777): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=23982)
+I/chromium(24103): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23777): [INFO:CONSOLE(2)] "STARTME---1529919312657", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(23777): [INFO:CONSOLE(7)] "STOPME---1529919326301", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium(24136): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24136): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(23777): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=24136)
+I/chromium(24155): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24155): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(23777): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=24155)
+W/chromium(23777): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=23843)
+I/chromium(24423): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24497): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24450): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24450): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(24567): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24605): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24605): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(24423): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=24605)
+I/chromium(24657): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24657): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(24423): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=24657)
+I/chromium(24717): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24423): [INFO:CONSOLE(2)] "STARTME---1529919527266", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(24423): [INFO:CONSOLE(7)] "STOPME---1529919540238", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium(24749): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24749): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(24423): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=24749)
+I/chromium(24773): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24773): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(24423): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=24773)
+W/chromium(24423): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=24497)
+I/chromium(25028): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25100): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25059): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25059): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(25174): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25218): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25218): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(25028): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25218)
+I/chromium(25309): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25028): [INFO:CONSOLE(2)] "STARTME---1529919743062", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(25028): [INFO:CONSOLE(7)] "STOPME---1529919756319", source: https://adhivirapt.github.io/sessionStorage.js (7)
+W/chromium(25028): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=25100)
+I/chromium(25503): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25573): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25531): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25531): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(25646): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25690): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25690): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(25503): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25690)
+I/chromium(25736): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25796): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25503): [INFO:CONSOLE(2)] "STARTME---1529919957301", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(25736): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(25503): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25736)
+I/chromium(25503): [INFO:CONSOLE(7)] "STOPME---1529919969202", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium(25828): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25828): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(25503): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25828)
+I/chromium(25849): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25849): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(25503): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25849)
+W/chromium(25503): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=25573)
+F/chromium(25796): [FATAL:render_widget_compositor.cc(1176)] Android does not support fallback frame sinks.
+I/chromium(26024): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26097): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26054): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26167): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26054): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26024): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=26054)
+I/chromium(26237): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26237): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26024): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=26237)
+I/chromium(26304): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26024): [INFO:CONSOLE(2)] "STARTME---1529920172242", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(26024): [INFO:CONSOLE(7)] "STOPME---1529920183999", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium(26339): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26339): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26024): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=26339)
+I/chromium(26360): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26360): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26024): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=26360)
+W/chromium(26024): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=26097)
+I/chromium(26705): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26776): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26735): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26735): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(26847): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26890): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26890): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26705): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=26890)
+I/chromium(26942): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27001): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26705): [INFO:CONSOLE(2)] "STARTME---1529920386282", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(26942): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26705): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=26942)
+I/chromium(26705): [INFO:CONSOLE(7)] "STOPME---1529920398577", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium(27040): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27040): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26705): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=27040)
+I/chromium(27071): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27071): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26705): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=27071)
+W/chromium(26705): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=26776)
+I/chromium(27247): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27318): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27277): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27277): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(27247): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=27277)
+I/chromium(27392): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27436): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27436): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(27247): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=27436)
+I/chromium(27523): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27247): [INFO:CONSOLE(2)] "STARTME---1529920600629", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(27247): [INFO:CONSOLE(7)] "STOPME---1529920612211", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium(27555): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27555): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(27247): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=27555)
+I/chromium(27580): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27580): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(27247): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=27580)
+W/chromium(27247): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=27318)
+I/chromium(27784): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27855): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27810): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27954): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27954): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(27784): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=27954)
+I/chromium(27999): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27999): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(27784): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=27999)
+I/chromium(28062): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27784): [INFO:CONSOLE(2)] "STARTME---1529920814926", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(27784): [INFO:CONSOLE(7)] "STOPME---1529920826753", source: https://adhivirapt.github.io/sessionStorage.js (7)
+W/chromium(27784): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=27855)
+I/chromium(28251): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28322): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28278): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28278): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(28395): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28437): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28437): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(28251): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=28437)
+I/chromium(28517): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28548): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28251): [INFO:CONSOLE(2)] "STARTME---1529921029710", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(28517): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(28251): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=28517)
+I/chromium(28251): [INFO:CONSOLE(7)] "STOPME---1529921041626", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium(28580): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28580): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(28251): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=28580)
+I/chromium(28623): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28623): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(28251): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=28623)
+W/chromium(28251): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=28322)
+F/chromium(28548): [FATAL:render_widget_compositor.cc(1176)] Android does not support fallback frame sinks.
+I/chromium(28802): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28872): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28830): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28830): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(28946): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28991): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28991): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(28802): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=28991)
+I/chromium(29079): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28802): [INFO:CONSOLE(2)] "STARTME---1529921243903", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(28802): [INFO:CONSOLE(7)] "STOPME---1529921254683", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium(29113): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29113): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(28802): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=29113)
+I/chromium(29133): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29133): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(28802): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=29133)
+W/chromium(28802): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=28872)
+I/chromium(29333): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29407): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29362): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29362): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(29476): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29516): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29516): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(29333): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=29516)
+I/chromium(29610): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29333): [INFO:CONSOLE(2)] "STARTME---1529921458257", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(29637): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29637): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(29333): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=29637)
+I/chromium(29333): [INFO:CONSOLE(7)] "STOPME---1529921469845", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium(29662): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29662): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(29333): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=29662)
+I/chromium(29683): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29683): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(29333): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=29683)
+W/chromium(29333): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=29407)
+I/chromium(29860): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29934): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29891): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29891): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(30004): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30043): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30043): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(29860): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=30043)
+I/chromium(30096): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30159): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29860): [INFO:CONSOLE(2)] "STARTME---1529921672339", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(30096): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(29860): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=30096)
+I/chromium(29860): [INFO:CONSOLE(7)] "STOPME---1529921683644", source: https://adhivirapt.github.io/sessionStorage.js (7)
+W/chromium(29860): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=29934)
+I/chromium(30353): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30424): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30383): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30383): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(30493): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30537): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30537): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(30353): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=30537)
+I/chromium(30623): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30353): [INFO:CONSOLE(2)] "STARTME---1529921886716", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(30353): [INFO:CONSOLE(7)] "STOPME---1529921898179", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium(30654): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30654): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(30353): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=30654)
+I/chromium(30675): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30675): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(30353): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=30675)
+W/chromium(30353): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=30424)
+I/chromium(30850): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30920): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30880): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30880): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(30992): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31035): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31035): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(30850): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=31035)
+I/chromium(31120): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30850): [INFO:CONSOLE(2)] "STARTME---1529922101116", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(30850): [INFO:CONSOLE(7)] "STOPME---1529922112624", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium(31153): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31153): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(30850): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=31153)
+I/chromium(31175): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31175): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(30850): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=31175)
+W/chromium(30850): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=30920)
+I/chromium(31353): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31424): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31382): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31382): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(31496): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31533): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31533): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(31353): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=31533)
+I/chromium(31586): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31646): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31586): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(31353): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=31586)
+I/chromium(31353): [INFO:CONSOLE(2)] "STARTME---1529922315194", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(31353): [INFO:CONSOLE(7)] "STOPME---1529922326842", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium(31679): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31679): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(31353): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=31679)
+I/chromium(31698): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31698): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(31353): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=31698)
+W/chromium(31353): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=31424)
+I/chromium(31884): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31955): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31911): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31911): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(32024): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32066): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32066): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(31884): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=32066)
+I/chromium(32157): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31884): [INFO:CONSOLE(2)] "STARTME---1529922529443", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(31884): [INFO:CONSOLE(7)] "STOPME---1529922540095", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium(32193): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32193): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(31884): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=32193)
+I/chromium(32211): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32211): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(31884): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=32211)
+W/chromium(31884): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=31955)
+I/chromium(32385): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32457): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32413): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32413): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(32530): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32571): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32571): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(32385): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=32571)
+I/chromium(32618): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32618): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(32385): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=32618)
+I/chromium(32679): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32385): [INFO:CONSOLE(2)] "STARTME---1529922743618", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(32385): [INFO:CONSOLE(7)] "STOPME---1529922755712", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium(32712): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32712): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(32385): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=32712)
+I/chromium(32732): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32732): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(32385): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=32732)
+W/chromium(32385): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=32457)
+I/chromium(  437): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(  584): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(  497): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(  497): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(  662): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(  707): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(  707): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(  437): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=707)
+I/chromium(  756): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(  756): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(  437): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=756)
+I/chromium(  833): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(  437): [INFO:CONSOLE(2)] "STARTME---1529922958133", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium(  437): [INFO:CONSOLE(7)] "STOPME---1529922970350", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium(  900): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(  900): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(  437): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=900)
+W/chromium(  437): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=584)
+I/chromium( 1177): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1276): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1220): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1220): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 1404): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1449): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1449): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 1177): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=1449)
+I/chromium( 1502): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1576): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1502): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 1177): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=1502)
+I/chromium( 1177): [INFO:CONSOLE(2)] "STARTME---1529923172896", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium( 1177): [INFO:CONSOLE(7)] "STOPME---1529923185081", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium( 1618): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1618): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 1177): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=1618)
+I/chromium( 1647): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1647): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 1177): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=1647)
+W/chromium( 1177): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=1276)
+I/chromium( 1826): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1903): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1859): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1859): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 1974): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2025): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2025): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 1826): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2025)
+I/chromium( 2073): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2137): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2073): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 1826): [INFO:CONSOLE(2)] "STARTME---1529923386656", source: https://adhivirapt.github.io/sessionStorage.js (2)
+W/chromium( 1826): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2073)
+I/chromium( 1826): [INFO:CONSOLE(7)] "STOPME---1529923398579", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium( 2182): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2182): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 1826): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2182)
+I/chromium( 2211): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2211): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 1826): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2211)
+W/chromium( 1826): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=1903)
+I/chromium( 2420): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2498): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2449): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2449): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 2570): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2615): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2615): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2420): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2615)
+I/chromium( 2669): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2730): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2669): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2420): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2669)
+I/chromium( 2420): [INFO:CONSOLE(2)] "STARTME---1529923600965", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium( 2420): [INFO:CONSOLE(7)] "STOPME---1529923613039", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium( 2765): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2765): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2420): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2765)
+I/chromium( 2792): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2792): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2420): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2792)
+W/chromium( 2420): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=2498)
+I/chromium( 2982): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3054): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3013): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3013): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 3129): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3169): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3169): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2982): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=3169)
+I/chromium( 3234): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3234): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2982): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=3234)
+I/chromium( 3294): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2982): [INFO:CONSOLE(2)] "STARTME---1529923815719", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium( 2982): [INFO:CONSOLE(7)] "STOPME---1529923827160", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium( 3328): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3328): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2982): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=3328)
+I/chromium( 3348): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3348): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2982): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=3348)
+W/chromium( 2982): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=3054)
+I/chromium( 3810): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3885): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3840): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3840): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 3956): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3991): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3991): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 3810): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=3991)
+I/chromium( 4048): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4110): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4048): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 3810): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4048)
+I/chromium( 3810): [INFO:CONSOLE(2)] "STARTME---1529924029680", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium( 3810): [INFO:CONSOLE(7)] "STOPME---1529924041448", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium( 4141): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4141): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 3810): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4141)
+I/chromium( 4161): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4161): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 3810): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4161)
+W/chromium( 3810): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=3885)
+F/chromium( 4110): [FATAL:render_widget_compositor.cc(1176)] Android does not support fallback frame sinks.
+I/chromium( 4356): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4434): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4389): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4389): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 4502): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4543): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4543): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 4356): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4543)
+I/chromium( 4598): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4664): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4356): [INFO:CONSOLE(2)] "STARTME---1529924244239", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium( 4598): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 4356): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4598)
+I/chromium( 4356): [INFO:CONSOLE(7)] "STOPME---1529924255353", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium( 4703): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4703): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 4356): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4703)
+I/chromium( 4730): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4730): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 4356): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4730)
+W/chromium( 4356): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=4434)
+--------- beginning of system
+--------- beginning of main
+I/chromium( 2420): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2498): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2449): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2449): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 2570): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2615): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2615): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2420): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2615)
+I/chromium( 2669): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2730): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2669): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2420): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2669)
+I/chromium( 2420): [INFO:CONSOLE(2)] "STARTME---1529923600965", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium( 2420): [INFO:CONSOLE(7)] "STOPME---1529923613039", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium( 2765): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2765): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2420): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2765)
+I/chromium( 2792): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2792): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2420): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2792)
+W/chromium( 2420): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=2498)
+I/chromium( 2982): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3054): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3013): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3013): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 3129): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3169): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3169): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2982): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=3169)
+I/chromium( 3234): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3234): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2982): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=3234)
+I/chromium( 3294): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2982): [INFO:CONSOLE(2)] "STARTME---1529923815719", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium( 2982): [INFO:CONSOLE(7)] "STOPME---1529923827160", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium( 3328): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3328): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2982): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=3328)
+I/chromium( 3348): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3348): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2982): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=3348)
+W/chromium( 2982): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=3054)
+I/chromium( 3810): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3885): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3840): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3840): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 3956): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3991): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3991): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 3810): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=3991)
+I/chromium( 4048): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4110): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4048): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 3810): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4048)
+I/chromium( 3810): [INFO:CONSOLE(2)] "STARTME---1529924029680", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium( 3810): [INFO:CONSOLE(7)] "STOPME---1529924041448", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium( 4141): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4141): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 3810): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4141)
+I/chromium( 4161): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4161): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 3810): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4161)
+W/chromium( 3810): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=3885)
+F/chromium( 4110): [FATAL:render_widget_compositor.cc(1176)] Android does not support fallback frame sinks.
+I/chromium( 4356): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4434): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4389): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4389): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 4502): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4543): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4543): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 4356): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4543)
+I/chromium( 4598): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4664): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4356): [INFO:CONSOLE(2)] "STARTME---1529924244239", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium( 4598): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 4356): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4598)
+I/chromium( 4356): [INFO:CONSOLE(7)] "STOPME---1529924255353", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium( 4703): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4703): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 4356): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4703)
+I/chromium( 4730): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4730): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 4356): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4730)
+W/chromium( 4356): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=4434)
+I/chromium( 1002): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1002): [INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.appcache", source: https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html (0)
+I/chromium( 1002): [INFO:CONSOLE(0)] "Application Cache Checking event", source: https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html (0)
+I/chromium( 1002): [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html (0)
+I/chromium( 5296): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 5366): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 5322): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 5322): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 5438): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 5481): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 5481): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 5296): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=5481)
+I/chromium( 5582): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 5296): [INFO:CONSOLE(2)] "STARTME---1529924480846", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium( 5296): [INFO:CONSOLE(7)] "STOPME---1529924493081", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium( 5786): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 5786): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 5296): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=5786)
+I/chromium( 5807): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 5807): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 5296): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=5807)
+W/chromium( 5296): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=5366)
+I/chromium( 5995): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6067): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6025): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6025): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 6137): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6182): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6182): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 5995): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=6182)
+I/chromium( 6225): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6284): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6225): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 5995): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=6225)
+I/chromium( 5995): [INFO:CONSOLE(2)] "STARTME---1529924696404", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium( 5995): [INFO:CONSOLE(7)] "STOPME---1529924707586", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium( 6319): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6319): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 5995): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=6319)
+I/chromium( 6341): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6341): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 5995): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=6341)
+W/chromium( 5995): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=6067)
+I/chromium( 6535): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6609): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6562): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6562): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 6679): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6719): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6719): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 6535): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=6719)
+I/chromium( 6818): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6535): [INFO:CONSOLE(2)] "STARTME---1529924910658", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium( 6535): [INFO:CONSOLE(7)] "STOPME---1529924921856", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium( 6852): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6852): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 6535): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=6852)
+I/chromium( 6872): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 6872): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 6535): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=6872)
+W/chromium( 6535): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=6609)
+I/chromium( 7098): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7165): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7129): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7129): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 7238): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7285): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7285): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 7098): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=7285)
+I/chromium( 7330): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7390): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7098): [INFO:CONSOLE(2)] "STARTME---1529925125308", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium( 7330): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 7098): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=7330)
+I/chromium( 7098): [INFO:CONSOLE(7)] "STOPME---1529925136560", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium( 7427): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7427): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 7098): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=7427)
+I/chromium( 7446): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7446): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 7098): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=7446)
+W/chromium( 7098): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=7165)
+I/chromium( 7622): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7698): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7650): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7650): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 7770): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7810): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7810): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 7622): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=7810)
+I/chromium( 7861): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7861): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 7622): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=7861)
+I/chromium( 7922): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7622): [INFO:CONSOLE(2)] "STARTME---1529925339796", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium( 7622): [INFO:CONSOLE(7)] "STOPME---1529925351331", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium( 7954): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7954): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 7622): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=7954)
+I/chromium( 7975): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 7975): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 7622): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=7975)
+W/chromium( 7622): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=7698)
+I/chromium( 8146): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 8218): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 8176): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 8176): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 8291): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 8334): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 8334): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 8146): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=8334)
+I/chromium( 8382): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 8382): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 8146): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=8382)
+I/chromium( 8444): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 8146): [INFO:CONSOLE(2)] "STARTME---1529925553903", source: https://adhivirapt.github.io/sessionStorage.js (2)
+I/chromium( 8146): [INFO:CONSOLE(7)] "STOPME---1529925565932", source: https://adhivirapt.github.io/sessionStorage.js (7)
+I/chromium( 8477): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 8477): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 8146): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=8477)
+I/chromium( 8496): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 8496): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 8146): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=8496)
+W/chromium( 8146): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=8218)

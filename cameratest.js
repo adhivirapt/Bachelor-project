@@ -4,7 +4,7 @@ window.onload = function () {
             video: true
         }, function () {}, function () {})
         setTimeout(function () {
-            getPicture(20000)
+            getPicture(60000)
         }, 15000);
     }
 }

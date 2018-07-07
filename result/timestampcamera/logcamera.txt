@@ -1,0 +1,550 @@
+--------- beginning of main
+--------- beginning of system
+I/chromium(18985): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19055): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19015): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19015): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(19143): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19203): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19203): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(18985): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=19203)
+I/chromium(19319): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19362): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(18985): [INFO:CONSOLE(21)] "STARTME---1529795369870", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(18985): [INFO:CONSOLE(27)] "STOPME---1529795370521", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(19362): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(18985): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=19362)
+I/chromium(19446): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19446): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(18985): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=19446)
+W/chromium(18985): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=19055)
+I/chromium(19723): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19796): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19753): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19753): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(19868): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19911): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19911): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(19723): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=19911)
+I/chromium(19996): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20037): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(19723): [INFO:CONSOLE(21)] "STARTME---1529795585761", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(19723): [INFO:CONSOLE(27)] "STOPME---1529795586329", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(20037): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(19723): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=20037)
+I/chromium(20115): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20115): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(19723): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=20115)
+W/chromium(19723): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=19796)
+I/chromium(20294): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20366): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20321): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20321): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(20452): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20495): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20495): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(20294): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=20495)
+I/chromium(20582): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20619): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20294): [INFO:CONSOLE(21)] "STARTME---1529795801410", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(20294): [INFO:CONSOLE(27)] "STOPME---1529795802152", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(20619): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(20294): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=20619)
+I/chromium(20697): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20697): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(20294): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=20697)
+W/chromium(20294): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=20366)
+I/chromium(20884): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20952): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20913): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20913): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(21025): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21068): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21068): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(20884): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=21068)
+I/chromium(21155): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21190): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(20884): [INFO:CONSOLE(21)] "STARTME---1529796017089", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(20884): [INFO:CONSOLE(27)] "STOPME---1529796017935", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(21190): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(20884): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=21190)
+I/chromium(21267): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21267): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(20884): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=21267)
+W/chromium(20884): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=20952)
+I/chromium(21452): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21523): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21482): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21482): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(21594): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21634): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21634): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(21452): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=21634)
+I/chromium(21722): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21757): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21452): [INFO:CONSOLE(21)] "STARTME---1529796233061", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(21452): [INFO:CONSOLE(27)] "STOPME---1529796233699", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(21757): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(21452): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=21757)
+I/chromium(21836): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(21836): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(21452): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=21836)
+W/chromium(21452): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=21523)
+I/chromium(22014): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22085): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22041): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22041): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(22157): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22199): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22199): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(22014): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=22199)
+I/chromium(22285): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22321): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22014): [INFO:CONSOLE(21)] "STARTME---1529796449096", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(22014): [INFO:CONSOLE(27)] "STOPME---1529796449838", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(22321): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(22014): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=22321)
+I/chromium(22400): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22400): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(22014): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=22400)
+W/chromium(22014): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=22085)
+I/chromium(22596): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22666): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22623): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22623): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(22742): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22781): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22781): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(22596): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=22781)
+I/chromium(22867): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22905): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22596): [INFO:CONSOLE(21)] "STARTME---1529796664799", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(22596): [INFO:CONSOLE(27)] "STOPME---1529796665457", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(22905): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(22596): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=22905)
+I/chromium(22987): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(22987): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(22596): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=22987)
+W/chromium(22596): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=22666)
+I/chromium(23192): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23263): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23222): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23222): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(23333): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23372): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23372): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(23192): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=23372)
+I/chromium(23460): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23497): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23192): [INFO:CONSOLE(21)] "STARTME---1529796880966", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(23192): [INFO:CONSOLE(27)] "STOPME---1529796881606", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(23497): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(23192): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=23497)
+I/chromium(23575): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23575): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(23192): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=23575)
+W/chromium(23192): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=23263)
+I/chromium(23750): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23824): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23778): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23778): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(23896): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23933): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23933): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(23750): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=23933)
+I/chromium(24023): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24058): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(23750): [INFO:CONSOLE(21)] "STARTME---1529797096896", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(23750): [INFO:CONSOLE(27)] "STOPME---1529797097508", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(24058): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(23750): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=24058)
+I/chromium(24159): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24159): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(23750): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=24159)
+W/chromium(23750): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=23824)
+I/chromium(24339): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24411): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24367): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24367): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(24485): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24530): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24530): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(24339): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=24530)
+I/chromium(24620): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24658): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24339): [INFO:CONSOLE(21)] "STARTME---1529797312429", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(24339): [INFO:CONSOLE(27)] "STOPME---1529797313107", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(24658): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(24339): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=24658)
+I/chromium(24735): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24735): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(24339): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=24735)
+W/chromium(24339): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=24411)
+F/chromium(24620): [FATAL:render_widget_compositor.cc(1176)] Android does not support fallback frame sinks.
+I/chromium(24914): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24985): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24944): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24944): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(25057): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25095): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25095): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(24914): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25095)
+I/chromium(25186): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25224): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(24914): [INFO:CONSOLE(21)] "STARTME---1529797528245", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(24914): [INFO:CONSOLE(27)] "STOPME---1529797528919", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(25224): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(24914): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25224)
+I/chromium(25302): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25302): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(24914): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25302)
+W/chromium(24914): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=24985)
+F/chromium(25186): [FATAL:render_widget_compositor.cc(1176)] Android does not support fallback frame sinks.
+I/chromium(25477): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25546): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25505): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25505): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(25619): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25663): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25663): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(25477): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25663)
+I/chromium(25755): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25792): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25477): [INFO:CONSOLE(21)] "STARTME---1529797744313", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(25477): [INFO:CONSOLE(27)] "STOPME---1529797744912", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(25792): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(25477): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25792)
+I/chromium(25869): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(25869): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(25477): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=25869)
+W/chromium(25477): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=25546)
+I/chromium(26046): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26116): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26076): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26076): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(26187): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26237): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26237): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26046): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=26237)
+I/chromium(26319): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26357): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26046): [INFO:CONSOLE(21)] "STARTME---1529797960046", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(26046): [INFO:CONSOLE(27)] "STOPME---1529797960659", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(26357): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26046): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=26357)
+I/chromium(26435): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26435): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26046): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=26435)
+W/chromium(26046): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=26116)
+I/chromium(26627): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26698): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26657): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26657): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(26771): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26812): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26812): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26627): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=26812)
+I/chromium(26899): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26936): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(26627): [INFO:CONSOLE(21)] "STARTME---1529798175936", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(26627): [INFO:CONSOLE(27)] "STOPME---1529798176567", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(26936): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26627): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=26936)
+I/chromium(27017): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27017): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(26627): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=27017)
+W/chromium(26627): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=26698)
+I/chromium(  886): [INFO:CONSOLE(0)] "Application Cache Checking event", source: https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html (0)
+I/chromium(  886): [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html (0)
+I/chromium(27206): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27277): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27236): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27236): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(27349): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27391): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27391): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(27206): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=27391)
+I/chromium(27538): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27576): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27206): [INFO:CONSOLE(21)] "STARTME---1529798391099", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(27206): [INFO:CONSOLE(27)] "STOPME---1529798391842", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(27576): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(27206): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=27576)
+I/chromium(27658): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27658): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(27206): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=27658)
+W/chromium(27206): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=27277)
+I/chromium(27873): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27946): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27904): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27904): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(28016): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28052): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28052): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(27873): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=28052)
+I/chromium(28151): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28210): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(27873): [INFO:CONSOLE(21)] "STARTME---1529798606832", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(27873): [INFO:CONSOLE(27)] "STOPME---1529798607538", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(28210): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(27873): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=28210)
+I/chromium(28288): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28288): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(27873): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=28288)
+W/chromium(27873): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=27946)
+I/chromium(28461): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28533): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28491): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28491): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(28601): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28648): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28648): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(28461): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=28648)
+I/chromium(28733): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28770): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28461): [INFO:CONSOLE(21)] "STARTME---1529798822928", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(28461): [INFO:CONSOLE(27)] "STOPME---1529798823482", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(28770): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(28461): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=28770)
+I/chromium(28847): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(28847): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(28461): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=28847)
+W/chromium(28461): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=28533)
+I/chromium(29157): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29229): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29186): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29186): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(29298): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29345): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29345): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(29157): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=29345)
+I/chromium(29430): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29468): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29157): [INFO:CONSOLE(21)] "STARTME---1529799038560", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(29157): [INFO:CONSOLE(27)] "STOPME---1529799039233", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(29468): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(29157): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=29468)
+I/chromium(29546): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29546): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(29157): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=29546)
+W/chromium(29157): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=29229)
+I/chromium(29726): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29800): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29754): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29754): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(29871): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29920): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29920): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(29726): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=29920)
+I/chromium(29999): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30035): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(29726): [INFO:CONSOLE(21)] "STARTME---1529799254119", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(29726): [INFO:CONSOLE(27)] "STOPME---1529799254782", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(30035): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(29726): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=30035)
+I/chromium(30115): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30115): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(29726): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=30115)
+W/chromium(29726): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=29800)
+I/chromium(30308): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30376): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30335): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30335): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(30448): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30505): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30505): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(30308): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=30505)
+I/chromium(30585): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30623): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30308): [INFO:CONSOLE(21)] "STARTME---1529799470295", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(30308): [INFO:CONSOLE(27)] "STOPME---1529799470848", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(30623): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(30308): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=30623)
+I/chromium(30700): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30700): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(30308): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=30700)
+W/chromium(30308): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=30376)
+I/chromium(30888): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30959): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30918): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30918): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(31033): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31065): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31065): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(30888): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=31065)
+I/chromium(31168): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31206): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(30888): [INFO:CONSOLE(21)] "STARTME---1529799686497", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(30888): [INFO:CONSOLE(27)] "STOPME---1529799687133", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(31206): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(30888): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=31206)
+I/chromium(31289): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31289): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(30888): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=31289)
+W/chromium(30888): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=30959)
+I/chromium(31466): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31539): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31497): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31497): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(31610): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31651): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31651): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(31466): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=31651)
+I/chromium(31737): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31774): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31466): [INFO:CONSOLE(21)] "STARTME---1529799902223", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(31466): [INFO:CONSOLE(27)] "STOPME---1529799902977", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(31774): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(31466): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=31774)
+I/chromium(31852): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(31852): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(31466): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=31852)
+W/chromium(31466): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=31539)
+I/chromium(32026): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32097): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32056): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32056): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(32170): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32207): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32207): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(32026): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=32207)
+I/chromium(32297): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32342): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32026): [INFO:CONSOLE(21)] "STARTME---1529800118106", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(32026): [INFO:CONSOLE(27)] "STOPME---1529800118868", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(32342): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(32026): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=32342)
+I/chromium(32436): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32436): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(32026): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=32436)
+W/chromium(32026): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=32097)
+I/chromium(32688): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32760): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32718): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32718): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium(  361): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(  401): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(  401): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(32688): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=401)
+I/chromium(  524): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(  599): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(32688): [INFO:CONSOLE(21)] "STARTME---1529800333520", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(32688): [INFO:CONSOLE(27)] "STOPME---1529800334304", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium(  599): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(32688): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=599)
+I/chromium(  705): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(  705): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(32688): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=705)
+W/chromium(32688): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=32760)
+I/chromium(  938): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1092): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1017): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1017): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 1202): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1261): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1261): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(  938): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=1261)
+I/chromium( 1372): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1411): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium(  938): [INFO:CONSOLE(21)] "STARTME---1529800549652", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium(  938): [INFO:CONSOLE(27)] "STOPME---1529800550233", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium( 1411): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(  938): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=1411)
+I/chromium( 1499): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1499): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium(  938): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=1499)
+W/chromium(  938): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=1092)
+I/chromium( 1689): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1765): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1722): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1722): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 1848): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1894): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1894): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 1689): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=1894)
+I/chromium( 1990): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2027): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 1689): [INFO:CONSOLE(21)] "STARTME---1529800765571", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium( 1689): [INFO:CONSOLE(27)] "STOPME---1529800766187", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium( 2027): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 1689): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2027)
+I/chromium( 2130): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2130): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 1689): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2130)
+W/chromium( 1689): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=1765)
+--------- beginning of crash
+I/chromium( 2339): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2425): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2380): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2380): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 2501): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2547): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2547): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2339): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2547)
+I/chromium( 2641): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2685): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2339): [INFO:CONSOLE(21)] "STARTME---1529800981400", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium( 2339): [INFO:CONSOLE(27)] "STOPME---1529800982096", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium( 2685): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2339): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2685)
+I/chromium( 2765): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2765): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2339): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=2765)
+W/chromium( 2339): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=2425)
+I/chromium( 2964): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3034): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2991): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2991): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 3115): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3163): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3163): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2964): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=3163)
+I/chromium( 3250): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3288): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 2964): [INFO:CONSOLE(21)] "STARTME---1529801197083", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium( 2964): [INFO:CONSOLE(27)] "STOPME---1529801197685", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium( 3288): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2964): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=3288)
+I/chromium( 3368): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3368): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 2964): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=3368)
+W/chromium( 2964): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=3034)
+F/chromium( 3250): [FATAL:render_widget_compositor.cc(1176)] Android does not support fallback frame sinks.
+I/chromium( 3557): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3631): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3588): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3588): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 3714): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3776): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3776): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 3557): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=3776)
+I/chromium( 3875): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3938): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 3557): [INFO:CONSOLE(21)] "STARTME---1529801412913", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium( 3557): [INFO:CONSOLE(27)] "STOPME---1529801413474", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium( 3938): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 3557): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=3938)
+I/chromium( 4039): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4039): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 3557): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4039)
+W/chromium( 3557): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=3631)
+I/chromium( 4263): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4332): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4290): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4290): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+I/chromium( 4405): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4449): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4449): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 4263): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4449)
+I/chromium( 4535): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4574): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4263): [INFO:CONSOLE(21)] "STARTME---1529801628399", source: https://adhivirapt.github.io/cameratest.js (21)
+I/chromium( 4263): [INFO:CONSOLE(27)] "STOPME---1529801629082", source: https://adhivirapt.github.io/cameratest.js (27)
+I/chromium( 4574): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 4263): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4574)
+I/chromium( 4657): [INFO:library_loader_hooks.cc(136)] Chromium logging enabled: level = 0, default verbosity = 0
+I/chromium( 4657): [INFO:child_process_service_impl.cc(70)] ChildProcessServiceImpl: Exiting child process.
+W/chromium( 4263): [WARNING:compositor_view.cc(255)] Child process disconnected (type=6) pid=4657)
+W/chromium( 4263): [WARNING:compositor_view.cc(255)] Child process disconnected (type=9) pid=4332)
+I/chromium(  886): [INFO:CONSOLE(0)] "Application Cache Checking event", source: https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html (0)
+I/chromium(  886): [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/sdk-core-v40-loader.html (0)

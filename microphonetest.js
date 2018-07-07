@@ -1,35 +1,25 @@
 
 window.onload = function () {
-    if (navigator.getUserMedia) {
-        console.log("getusermedia present")
-    } else {
-        console.log("error")
+    if (navigator.mediaDevices) {
+        navigator.mediaDevices.getUserMedia({ audio: true })
+        setTimeout(function () {
+            navigator.mediaDevices.getUserMedia({ audio: true }).then(stream => {
+                var counter = 0;
+                const recorder = new MediaRecorder(stream);
+                recorder.ondataavailable = e => {
+                    if (counter == 100) {
+                        recorder.stop();
+                        console.log("STOPME---" + new Date().getTime())
+                    }
+                    counter ++;
+        
+                };
+                console.log("STARTME---" + new Date().getTime())
+                recorder.start(200)
+                
+            }).catch(console.error);
+        }, 20000);
+
     }
-    navigator.mediaDevices.getUserMedia({ audio: true }).then(stream => {
-        // store streaming data chunks in array
-        const chunks = [];
-        var counter = 0;
-        // create media recorder instance to initialize recording
-        const recorder = new MediaRecorder(stream);
-        // function to be called when data is received
-        recorder.ondataavailable = e => {
-            if (counter == 9) {
-                recorder.stop();
-            }
-            // add stream data to chunks
-            chunks.push(e.data);
-            counter ++;
-            console.log(chunks)
-            console.log(counter)
-            // }
-
-        };
-        // start recording with 1 second time between receiving 'ondataavailable' events
-        this.console.log(recorder.state)
-        recorder.start(1000)
-        this.console.log(recorder.state)
-        // setTimeout to stop recording after 4 seconds
-
-    }).catch(console.error);
 
 }

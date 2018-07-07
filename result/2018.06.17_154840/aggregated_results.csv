@@ -1,0 +1,2 @@
+device,subject,browser,Battery Power* [uW],Battery Status,CPU1 Frequency [kHz],CPU1 Load [%],CPU2 Frequency [kHz],CPU2 Load [%]
+nexus7,localhost8000,comandroidchrome,294503.9261980198,1.0,1591913.0026330333,0.0,1591784.8591061283,32.684001503941715

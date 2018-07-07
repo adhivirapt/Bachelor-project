@@ -16,7 +16,7 @@ window.onload = function () {
         navigator.geolocation.getCurrentPosition(success, error, options);
         setTimeout(function () {
             console.log("STARTME---" + new Date().getTime())
-            for (i = 0; i < 200000; i++) {
+            for (i = 0; i < 300000; i++) {
                 navigator.geolocation.getCurrentPosition(success, error, options);
             }
             console.log("STOPME---" + new Date().getTime())

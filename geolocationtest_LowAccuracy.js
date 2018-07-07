@@ -1,31 +1,38 @@
 window.onload = function () {
     var options = {
         enableHighAccuracy: false,
-        timeout: 5000,
+        timeout: 10000,
         maximumAge: 0
     };
-    // navigator.permissions.query({name:'geolocation'}).then(function(result) {
-    //     if (result.state === 'granted') {
-    //       console.log("haha")
-    //     } else if (result.state === 'prompt') {
-    //       console.log("hahah")
-    //     }
-    //     // Don't do anything if the permission was denied.
-    //   });
+    i = 0;
     if (navigator.geolocation) {
-        navigator.geolocation.getCurrentPosition(success, error, options);
+        navigator.geolocation.getCurrentPosition(successTrivial, error, options);
         setTimeout(function () {
             console.log("STARTME---" + new Date().getTime())
-            for (i = 0; i < 100000; i++) {
-                navigator.geolocation.getCurrentPosition(success, error, options);
-            }
-            console.log("STOPME---" + new Date().getTime())
+            navigator.geolocation.getCurrentPosition(success, error, options);
+
         }, 15000);
 
     }
 
-    function success() {}
+    function successTrivial() {}
 
-    function error() {}
+    function success() {
+        i++;
+        console.log(i)
+        call()
+    }
 
+    function error(err) {
+        console.log(err)
+        i++;
+        call()
+    }
+    function call() {
+        if (i == 10) {
+            console.log("STOPME---" + new Date().getTime())
+        } else {
+            navigator.geolocation.getCurrentPosition(success, error, options);
+        }
+    }
 }

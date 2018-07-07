@@ -1,17 +1,24 @@
 window.onload = function () {
-    var counter = 2000
-    var xmlHttp = new XMLHttpRequest();
+    var counter = 1000
+    var counter1 = 1
+
     setTimeout(function () {
         console.log("STARTME---" + new Date().getTime())
-        while (counter > 0) {
-            // xmlHttp.onreadystatechange = function () {
-            // }
-            xmlHttp.open("GET", "http://localhost:8081/api/simpleExample", false); // true for asynchronous 
-            xmlHttp.send(null);
-            counter = counter - 1;
-            console.log(counter)
+        var xmlHttp = new XMLHttpRequest();
+        getRequest(xmlHttp)
+        xmlHttp.onreadystatechange = function () {
+            if (counter == 0 && counter1 == 1) {
+                console.log("STOPME---" + new Date().getTime())
+                counter1++;
+            } else if (xmlHttp.status == 200 && counter1 == 1) {
+                getRequest(xmlHttp)
+                counter--;
+            }
         }
-        console.log("STOPME---" + new Date().getTime())
-    }, 25000);;
-    // ksajgdajsgjk
+    }, 15000);
+
+    function getRequest(xmlHttp) {
+        xmlHttp.open("GET", "https://adhivirapt.github.io/blah/", true); // true for asynchronous 
+        xmlHttp.send(null);
+    }
 }
