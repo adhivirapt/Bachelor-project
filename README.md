@@ -1,6 +1,4 @@
-Bachelor-Project
-## Project title
-Web Applications for Energy Benchmarking
+## Web Applications for Energy Benchmarking
 
 ## Motivation
 9 web benchmark applications developed to test energy efficiency of JavaScript functionalities. This experiment is conducted with the help of Trepn profiler and Android Runner Python framework.
@@ -23,9 +21,9 @@ Web Applications for Energy Benchmarking
 
 </html>
 ```
-Uncomment the tags only if its needed. Specify directory of the desired web app im script tag ( with its preinitiated variable for cputest_sort) 
+Uncomment the tags only if its needed. Specify directory of the desired web app in script tag ( with its preinitiated variable for cputest_sort) 
 
-##Result
+## Result
 To see experiment result, go to ./result/process.py and uncomment desired web application section.
 ```
 
@@ -43,28 +41,13 @@ To see experiment result, go to ./result/process.py and uncomment desired web ap
 # data = [aggregate_data(
 
 ```
-For example, from this process.py snippet, uncomment **geolocation true** section with its corresponding lines to aggregate the data points and run 
+For example, from this **process.py** snippet, uncomment **geolocation true** section with its corresponding lines to aggregate the data points and run 
 ```
 python process.py
 ```
 
-## Tests
-Describe and show how to run the tests with code examples.
-
-## How to use?
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
-
-## Contribute
-
-Let people know how they can contribute into your project. A [contributing guideline](https://github.com/zulip/zulip-electron/blob/master/CONTRIBUTING.md) will be a big plus.
-
 ## Credits
 https://github.com/KungPaoChicken/android-runner
 
-#### Anything else that seems useful
 
-## License
-A short snippet describing the license (MIT, Apache etc)
-
-MIT © [Yourname]()
 
